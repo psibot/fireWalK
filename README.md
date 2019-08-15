@@ -18,6 +18,15 @@ Will setup domain check just follow instructions.
  
 This will check domian for what version of firewall
  
-example : github.com
+
+![Example](https://i.imgur.com/3AhoqOe.png)
+![Example](https://i.imgur.com/JQxJsmO.png)
 
 
+choose option "c"
+
+Will setup website test  check just follow instructions.
+ 
+This will check website for what version of firewall
+
+![Example](https://i.imgur.com/cR5Vb8a.png)
