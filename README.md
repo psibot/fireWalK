@@ -1,6 +1,6 @@
 # fireWalK
 
-Testing Firewalls and pulling ifno needed for footprinting and recon.
+Testing Firewalls and pulling info needed for footprinting and recon.
 
 Tested on Kali.
 
